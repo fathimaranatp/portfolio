@@ -294,7 +294,7 @@ typing-text span::before{
     }
 
     nav{
-        display:none;
+        display:block;
     }
 }
 
